@@ -6,7 +6,7 @@ int main () {
     float total = 0;
     int count = 0;
 
-    //Nhap diem hop le (0-100)
+    //Nhap so luong hoc sinh hop le (0-100)
     do{
         printf("Nhap vao so luong h/s (0-100):\n");
         scanf("%d",&n);
